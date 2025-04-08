@@ -1,6 +1,7 @@
-Hello and welcome, I am currently on the road of improving my skills.
+Hello and welcome to my repository!
 
-[![roadmap.sh](https://roadmap.sh/card/wide/666020cbb998f3b3c7b96349?variant=dark)](https://roadmap.sh)
+🔭 I am currently working on a webscraper (C#) which I intend on making use of in an upcoming project!
+
 
 <!--
 **alexlask/alexlask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,8 @@ Hello and welcome to my repository!
 
 🔭 I am currently working on a webscraper (C#) which I intend on making use of in an upcoming project!
 
+🌱 I’m currently learning about how to incorporate MCP in my upcoming project as well, exciting stuff!
+
 
 <!--
 **alexlask/alexlask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
